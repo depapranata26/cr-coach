@@ -1,0 +1,227 @@
+{
+ "updated": "2026-09-30",
+ "guides": [
+  {
+   "archetype": "Hog Cycle",
+   "threats": [
+    "Hog Rider",
+    "Musketeer",
+    "Cannon"
+   ],
+   "counter_cards": [
+    "Cannon",
+    "Tesla",
+    "Mini P.E.K.K.A",
+    "Tornado",
+    "Skeletons"
+   ],
+   "strategy": [
+    "Taruh building (Cannon/Tesla) di tengah, 4 tile dari bridge \u2014 Hog kepancing ke tengah.",
+    "Jangan buang building terlalu awal; simpan untuk Hog kedua.",
+    "Tornado untuk seret Hog + support ke King Tower (aktivasi King!).",
+    "Skeletons/Ice Golem untuk kite Hog menjauh dari tower."
+   ],
+   "elixir_tip": "Jangan overcommit spell ke Hog \u2014 chip damage Hog tidak apa, yang penting jangan jebol."
+  },
+  {
+   "archetype": "Royal Giant",
+   "threats": [
+    "Royal Giant",
+    "Fisherman",
+    "Phoenix"
+   ],
+   "counter_cards": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "Fisherman",
+    "Tornado",
+    "Mini P.E.K.K.A"
+   ],
+   "strategy": [
+    "Inferno Tower/Dragon adalah jawaban utama \u2014 tarik RG ke tengah.",
+    "Fisherman sendiri untuk tarik RG menjauh dari tower / pisahkan dari support.",
+    "Tornado + King activation kalau RG sudah dekat tower.",
+    "Punish opposite lane saat mereka drop RG (mahal, 6 elixir)."
+   ],
+   "elixir_tip": "RG deck mahal \u2014 kalau defense 4 elixir vs RG 6 elixir, kamu unggul 2 elixir tiap defense."
+  },
+  {
+   "archetype": "Miner Control",
+   "threats": [
+    "Miner",
+    "Poison",
+    "Rocket"
+   ],
+   "counter_cards": [
+    "Knight",
+    "Valkyrie",
+    "Goblins",
+    "Tornado",
+    "Skeletons"
+   ],
+   "strategy": [
+    "Taruh Knight/Valkyrie di atas Miner begitu muncul \u2014 Miner mati sebelum banyak chip.",
+    "Jangan kumpulin unit di satu titik (rawan Poison).",
+    "Pressure balik cepat \u2014 deck Miner lemah defense dadakan.",
+    "Hitung Rocket: jangan taruh support mahal dekat tower kalau tower HP rendah."
+   ],
+   "elixir_tip": "Miner cuma 3 elixir \u2014 jawab dengan max 3 elixir juga, jangan rugi."
+  },
+  {
+   "archetype": "LavaLoon",
+   "threats": [
+    "Lava Hound",
+    "Balloon",
+    "Baby Dragon"
+   ],
+   "counter_cards": [
+    "Musketeer",
+    "Hunter",
+    "Inferno Dragon",
+    "Tornado",
+    "Tombstone"
+   ],
+   "strategy": [
+    "Anti-air adalah nyawa: Musketeer/Hunter jangan mati sia-sia sebelum Lava keluar.",
+    "Tombstone/Cannon untuk belokkan Balloon (Balloon cuma incer building).",
+    "Tornado untuk pisahkan Balloon dari Lava Hound.",
+    "Inferno Dragon lelehkan Lava Hound dengan cepat \u2014 lindungi dia dari Baby Dragon musuh."
+   ],
+   "elixir_tip": "Jangan panik lihat Lava 7 elixir \u2014 defense udara yang benar cuma butuh 4-5 elixir."
+  },
+  {
+   "archetype": "Golem Beatdown",
+   "threats": [
+    "Golem",
+    "Night Witch",
+    "Lumberjack"
+   ],
+   "counter_cards": [
+    "Inferno Tower",
+    "Inferno Dragon",
+    "Mini P.E.K.K.A",
+    "Tornado",
+    "Skeletons"
+   ],
+   "strategy": [
+    "Inferno Tower/Dragon untuk lelehkan Golem \u2014 wajib ada jawaban ini.",
+    "Kite Golem dengan Skeletons/Ice Golem biar jalan muter.",
+    "PUNISH opposite lane! Golem 8 elixir di satu lane = lane sebelah kosong.",
+    "Bunuh Night Witch duluan (splash + spawn bat) sebelum dia numpuk."
+   ],
+   "elixir_tip": "Golem di belakang King = 8 elixir tidak ngapa-ngapain 10 detik. Itu waktumu untuk push lane sebelah."
+  },
+  {
+   "archetype": "P.E.K.K.A Bridge Spam",
+   "threats": [
+    "P.E.K.K.A",
+    "Bandit",
+    "Battle Ram"
+   ],
+   "counter_cards": [
+    "Skeletons",
+    "Ice Golem",
+    "Tornado",
+    "Mini P.E.K.K.A",
+    "Goblin Gang",
+    "Skeleton Army"
+   ],
+   "strategy": [
+    "KITE P.E.K.K.A: Skeletons/Ice Golem di tengah, biar dia jalan-jalan tanpa mukul.",
+    "Jangan taruh tank mahal di depan P.E.K.K.A \u2014 dia one-shot.",
+    "Fokus defense Bandit/Ram (mereka yang ancam tower), biarin P.E.K.K.A di-kite.",
+    "Tornado untuk kumpulin spam ke satu titik lalu splash."
+   ],
+   "elixir_tip": "P.E.K.K.A 7 elixir yang di-kite Skeletons 1 elixir = kamu menang 6 elixir."
+  },
+  {
+   "archetype": "Log Bait",
+   "threats": [
+    "Goblin Barrel",
+    "Princess",
+    "Inferno Tower"
+   ],
+   "counter_cards": [
+    "The Log",
+    "Arrows",
+    "Tornado",
+    "Valkyrie",
+    "Electro Wizard"
+   ],
+   "strategy": [
+    "Jangan buang Log untuk Princess kalau Barrel belum keluar \u2014 sabar.",
+    "Tornado + tower untuk matiin Barrel tanpa spell.",
+    "Valkyrie/E-Wiz di atas Barrel = Barrel mati total.",
+    "Rocket/Earthquake untuk Inferno Tower mereka kalau kamu beatdown."
+   ],
+   "elixir_tip": "Tujuan mereka: paksa kamu buang spell kecil. Kalau kamu tahan, Barrel mereka mati sia-sia."
+  },
+  {
+   "archetype": "X-Bow / Siege",
+   "threats": [
+    "X-Bow",
+    "Tornado",
+    "Tesla"
+   ],
+   "counter_cards": [
+    "Rocket",
+    "Earthquake",
+    "Knight",
+    "Goblin Barrel",
+    "Lightning"
+   ],
+   "strategy": [
+    "Rocket/EQ adalah jawaban utama \u2014 simpan selalu 6 elixir saat X-Bow turun.",
+    "Pressure nonstop satu lane biar mereka tidak sempat setup X-Bow.",
+    "Knight/Giant di depan X-Bow untuk jadi tameng + rusak X-Bow.",
+    "Jangan numpuk push besar \u2014 X-Bow + Tornado menghukum itu."
+   ],
+   "elixir_tip": "X-Bow butuh setup. Tiap detik mereka setup = elixir tidak dipakai defense. Gas terus."
+  },
+  {
+   "archetype": "Graveyard",
+   "threats": [
+    "Graveyard",
+    "Poison",
+    "Tornado"
+   ],
+   "counter_cards": [
+    "Valkyrie",
+    "Baby Dragon",
+    "Poison",
+    "Tornado",
+    "Skeletons"
+   ],
+   "strategy": [
+    "Siapkan Valkyrie/Baby Dragon SEBELUM GY turun \u2014 prediksi, jangan reaksi.",
+    "Poison balik di atas GY mereka untuk bunuh skeleton + chip.",
+    "Jangan taruh tank di depan tower saat GY siap (jadi korban Tornado+GY).",
+    "Skeletons untuk distract + cycle cepat ke jawabanmu."
+   ],
+   "elixir_tip": "GY 5 elixir + Poison 4 = 9 elixir komit. Defense benar cuma 4-5 elixir \u2014 counter-push sisanya."
+  },
+  {
+   "archetype": "Electro Giant",
+   "threats": [
+    "Electro Giant",
+    "Tornado",
+    "Lightning"
+   ],
+   "counter_cards": [
+    "Inferno Dragon",
+    "Inferno Tower",
+    "Skeletons",
+    "Barbarians",
+    "Baby Dragon",
+    "Minions"
+   ],
+   "strategy": [
+    "E-Giant cuma stun DARAT di sekitarnya \u2014 jawab dengan UDARA (Baby Dragon, Minions).",
+    "Inferno Dragon/Tower tetap jawaban terbaik, tapi lindungi dari Lightning.",
+    "Swarm darat = bunuh diri (kena stun). Jangan!",
+    "Pancing E-Giant ke tengah lalu kite."
+   ],
+   "elixir_tip": "Satu kesalahan umum: buang swarm darat ke E-Giant. Itu 2-5 elixir gratis buat dia."
+  }
+ ]
+}
